@@ -1,17 +1,29 @@
 ---
 layout: page
-title: So who am I?
+title: Hi, I am Alex!
 permalink: /about/
 ---
 
-I am an Entrepreneur and a Software Craftsman on a journey of creating a successful company.
+![Alex Panov](/images/profile.jpg){:class="img-responsive "}
 
-Writing Clean Code via TDD used to be my very important passion. However, last year I got bit by the Entrepreneurial zombie and have been transforming ever since.
+I am an Entrepreneur and a Software Craftsman.
+I help companies of various sizes to envision, **build and launch
+software products**, be it web or mobile apps.
 
-I want to create great products that help people and improve their lives. Over the last 9 years, I got a lot of lessons on how not to do that. However, I also got a few very valuable ones on how to actually accomplish that.
+My team and I are focused on delivering the core functionality for
+new products to go-to-market **in less than 2 months**.
 
-I am now working with a couple of great people on creating my own company, [Vangify](http://vangify.com). We want to help people make better sports bets. Betting is something that I enjoy doing, so it was quite easy to get excited once I realized that it is one of my options.
+We get involved in brainstorming before we even get hired to advance
+the understanding and re-frame the problem and thus find **elegant and
+simple solutions**.
 
-I also want to help startups with great vision and make sure they don't waste valuable time and resources.
+I am fascinated by **Design Thinking** and modern technology.
+These days I prefer to use JavaScript and React/React Native to squeeze
+out maximum productivity once the problem and the solution have been
+identified.
 
-I worked for quite a few companies and learned a great deal about writing software and creating products. I now want to share that on my blog.
+If you have a product or a service idea, I want to know.
+Please **reach out** to me at [mail@alexpanov.me](mailto:mail@alexpanov.me)
+or simply use the [contact](/contact) form.
+
+-Alex
