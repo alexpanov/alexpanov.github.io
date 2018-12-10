@@ -1,8 +1,8 @@
 # Site settings
-title:       Blog about Entrepreneurship and Programming
+title:       Blog about Entrepreneurship and Lean Startups
 email:       thealexpanov@gmail.com
 author:      Alex Panov
-description: "Alex is writing about Entrepreneurship and Startups in Toronto as well as Software Development and Craftsmanship. Alex is Lead Developer at Qoints"
+description: "Alex is writing about Entrepreneurship and Startups in Toronto as well as Software Development and Craftsmanship. Alex is Head of Product at Insighty."
 baseurl:     ""
 url:         "http://alexpanov.me"
 date_format: "%b %-d, %Y"
@@ -39,7 +39,7 @@ social:
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
 facebook_comments:
-facebook_appid: 
+facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
